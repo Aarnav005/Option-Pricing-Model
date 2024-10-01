@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your GitHub repository to explain your Option Pricing Model web application built with Streamlit and the Black-Scholes formula:
-
----
-
 # Option Pricing Model
 
 This is a web-based application that allows users to calculate European-style option prices (Call and Put) using the **Black-Scholes** formula. The app also computes the Greeks (Delta, Gamma, Theta, Vega) for both Call and Put options.
